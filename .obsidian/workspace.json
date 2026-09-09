@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c995d54e655649c",
+        "id": "424b24b3368a026c",
         "type": "tabs",
         "children": [
           {
-            "id": "764cde951287bd0b",
+            "id": "557c15bfeda09870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asad.md",
+                "file": "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Análise Assintótica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asad"
+              "title": "Análise Assintótica"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:complexidade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.77734375
   },
   "right": {
     "id": "9cd98f417c102189",
@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Análise Assintótica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,18 +167,59 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "326fba6ddeb917f3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f2b87a7d61528172",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Faculdade/05 Semestre/Análise de algoritmos/Guia de resolução.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriedades dos arquivos"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "b135e2167f87c172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdaa31bf7caef681",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 277.58984375
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
+      "obsidian-kanban:Create new board": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
@@ -185,14 +227,60 @@
       "bases:Criar nova base": false,
       "zk-prefixer:Criar nova nota única": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "markdown-importer:Abrir importador Markdown": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "764cde951287bd0b",
+  "active": "326fba6ddeb917f3",
   "lastOpenFiles": [
-    "asad.md",
-    "Bem-vindo.md"
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Árvores Binárias.md.tmp.40320.6bad3afc2ff2",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/RabbitMQ no Spring.md.tmp.40320.0e63967fe51c",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Paginação em APIs.md.tmp.40320.ef1c9afc67f5",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Ordenação e Pesquisa Binária.md.tmp.40320.376a3003cea2",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Fila.md.tmp.40320.73566d1accfb",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Estrutura de Dados - Pilha (Stack).md.tmp.40320.36ad12ea6ab8",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Estrutura de Dados (Fila) e Lógica de Recursão.md.tmp.40320.64eaaecfceba",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Cache de Conteúdo com Redis e Spring Boot.md.tmp.40320.3e687a841ab7",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Arquitetura Orientada a Eventos.md.tmp.40320.5f7845cc92c0",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Computação em Nuvem/Fundamentos da Infraestrutura como Código (IaC).md.tmp.40320.ba6fe8deea91",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Computação em Nuvem/Automação e Infraestrutura como Código (IaC) na AWS.md.tmp.40320.4254e6cc31ff",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Computação em Nuvem/Automação e Infraestrutura como Código (IaC) na AWS.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Computação em Nuvem/Automação de Testes.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Simulado AC1.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Introdução a Análise de Algoritmos.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Guia de resolução.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Gerenciamento de memória.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Complexidades.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Análise de Estruturas de Dados e Métricas de Memória em Python.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Analise Assintotica e Recursão.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 05 Semestre ᵎᵎ  𖹭 ֶָ/Análise de algoritmos/Análise Assintótica.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Computação em Nuvem/Fundamentos da Infraestrutura como Código (IaC).md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Fluxo de Dados e Análise.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Distribuições.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Fundamentos e Aplicações da Análise de Dados.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Documentação de Dados.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Star Schema e Snowflake.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Arquiteturas de Armazenamento e Processamento de Dados.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Limpeza, Padronização e Enriquecimento de Dados.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Análise de Dados/Introdução à Análise de Dados.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Árvores Binárias.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Estrutura de Dados (Fila) e Lógica de Recursão.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Cache de Conteúdo com Redis e Spring Boot.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Ordenação e Pesquisa Binária.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Design de Interação/Arquitetura da informação, Design responsivo e UX Writing - Aula 04.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 04 Semestre ᵎᵎ  𖹭 ֶָ/Técnicas Avançadas de Backend/Arquitetura Orientada a Eventos.md",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153725.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153732.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 01 Semestre ᵎᵎ 𖹭 ֶָ/imagens/Pasted image 20260909145324.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909152850.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153645.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153636.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153631.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153626.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153620.png",
+    "𖥻 Faculdade ! ⋆. 𐙚/⋆ 03 Semestre ᵎᵎ  𖹭 ֶָ/Imagens/Pasted image 20260909153616.png",
+    "Sem título.canvas"
   ]
 }

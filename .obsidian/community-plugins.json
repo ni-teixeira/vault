@@ -4,5 +4,15 @@
   "obsidian-style-settings",
   "obsidian-icon-folder",
   "editing-toolbar",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "breadcrumbs",
+  "colored-tags",
+  "css-editor",
+  "highlightr-plugin",
+  "ink",
+  "obsidian-linter",
+  "obsidian-pandoc",
+  "tag-wrangler",
+  "cmdr",
+  "obsidian-kanban"
 ]

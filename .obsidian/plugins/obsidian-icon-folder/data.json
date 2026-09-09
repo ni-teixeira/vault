@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiArchive",
+      "LiLayoutTemplate",
+      "LiNotebookPen"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +31,17 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "𖥻 Faculdade ! ⋆. 𐙚": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#6788cb"
+  },
+  "𖥻 Arquivo ! ⋆. 𐙚": {
+    "iconName": "LiArchive",
+    "iconColor": "#e472a3"
+  },
+  "template": {
+    "iconName": "LiLayoutTemplate",
+    "iconColor": "#f0cbcb"
   }
 }

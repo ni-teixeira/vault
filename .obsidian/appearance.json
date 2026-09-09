@@ -1,9 +1,10 @@
 {
   "theme": "obsidian",
   "accentColor": "#ec658d",
-  "cssTheme": "Rose Pine Minimal",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "Fira Sans",
-  "baseFontSizeAction": true
+  "textFontFamily": "",
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
 }
